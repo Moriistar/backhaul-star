@@ -21,7 +21,8 @@ A comprehensive and user-friendly script for setting up Backhaul tunnels with su
 wget https://raw.githubusercontent.com/MoriiStar/BackhaulStar/main/backhaul_star.sh
 chmod +x backhaul_star.sh
 sudo ./backhaul_star.sh
-# Method 2: Clone Repository
+
+### Method 2: Clone Repository
  
 git clone https://github.com/MoriiStar/BackhaulStar.git
 cd BackhaulStar
